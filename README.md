@@ -1,4 +1,5 @@
 # AR_DiceApp
 Roll the 3D dice
 
-![](art.scnassets/arDice.png)
+<img src="https://github.com/spinarunsal/AR_DiceApp/blob/master/ARDicee/art.scnassets/arDice.png" width="400">
+
